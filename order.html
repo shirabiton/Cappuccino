@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet.css" />
+    <title>הזמנות</title>
+</head>
+
+<body dir="rtl"
+    style="color:white; text-align:center; background-color: rgb(30, 29, 29); font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+    <!-- class="bckg" -->
+    <form action="thank.html">
+        <br>
+        <h3>פרטים אישיים</h3>
+        <span class="asterisk">*</span>
+        <label for="name">שם לקוח</label>
+        <input type="text" id="name" name="name" required autocomplete="on" placeholder="שם מלא" maxlength="25"
+            minlength="2" size="15" pattern="[א-ת ]+"><br><br>
+        <label for="phone">מספר טלפון</label>
+        <input type="text" size="7" placeholder="מספר טלפון" minlength="7" maxlength="7" pattern="\d+">
+        <select name="קידומת מספר">
+            <option value="050">050</option>
+            <option value="051">051</option>
+            <option value="052">052</option>
+            <option value="053">053</option>
+            <option value="054">054</option>
+            <option value="055">055</option>
+            <option value="058">058</option>
+            <option vallue="077">077</option>
+            <option value="02">02</option>
+            <option value="03">03</option>
+            <option value="04">04</option>
+            <option vallue="08">08</option>
+            <option vallue="09">09</option>
+        </select>
+        <br>
+        <label for="mail">כתובת מייל</label>
+        <input type="mail" id="mail" name="mail" placeholder="E-mail" size="20" maxlength="60" minlength="11"
+            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$"><br><br>
+
+        <span class="asterisk">*</span>
+        <label for="address" required>מגורים</label>
+        <select name="עיר">
+            <option value="נתניה">נתניה</option>
+            <option value="חדרה">חדרה</option>
+            <option value="הרצליה">הרצליה</option>
+            <option value="רעננה">רעננה</option>
+            <option value="פתח תקוה">פתח תקוה</option>
+            <option value="בני ברק">בני ברק</option>
+            <option value="תל אביב">תל אביב</option>
+            <option vallue="גבעת שמואל">גבעת שמואל</option>
+            <option value="לוד">לוד</option>
+            <option value="כפר יונה">כפר יונה</option>
+            <option value="כפר סבא">כפר סבא</option>
+            <option vallue="אבן יהודה">אבן יהודה</option>
+            <option vallue="הוד השרון">הוד השרון</option>
+        </select>
+        <input type="text" id="address" name="address" placeholder="רחוב" pattern="[א-ת ]+"><br><br>
+        <input type="number" id="address" name="address" placeholder="מספר בית" size="3" max="999" min="1">
+        <input type="number" id="address" name="address" placeholder="דירה" size="3" max="99" min="1"><br><br>
+        <br>
+
+        <h3>סוג משלוח</h3>
+        <span class="asterisk">*</span>
+        <input type="radio" name="order" id="to home" required>
+        <label for="to home">משלוח עד הבית</label><br>
+        <input type="radio" name="order" id="self">
+        <label for="self">איסוף עצמי</label><br>
+        <br>
+        <h3>פרטי הזמנה</h3>
+        <span class="asterisk">*</span>
+        <label for="code">קוד מוצר</label>
+        <input type="text" id="code" name="code" required placeholder="קוד" maxlength="3"><br><br>
+        <span class="asterisk">*</span>
+        <label for="amount">כמות</label>
+        <input type="number" id="amount" name="amount" required placeholder="כמות" max="15" min="0"><br><br>
+        <br>
+        <h3>פרטי אשראי</h3>
+        <span class="asterisk">*</span>
+        <label for="num_credit_card">מספר כרטיס</label>
+        <input type="text" id="num_credit_card" name="num_credit_card" required placeholder="מספר כרטיס" maxlength="16"
+            minlength="9" pattern="\d+" size="16"><br><br>
+        <label for="validity">תוקף:</label>
+        <input type="month" id="validity" name="validity" min="2023-01"><br><br>
+        <span class="asterisk">*</span>
+        <label for="3_digit">3 ספרות בגב הכרטיס</label>
+        <input type="text" id="3_digit" name="3_digit" required placeholder="CVV" maxlength="3" size="3"
+            minlength="3"><br><br>
+        <label for="id_ownCard">מספר הזהות של בעל הכרטיס</label>
+        <input type="text" id="id_ownCard" name="id_ownCard" placeholder="מספר זהות" size="9" maxlength="9"
+            pattern="\d+"><br><br>
+        <label for="validity">תאריך לידה</label>
+        <input type="date" id="validity" name="validity" max="2023-01-01"><br><br>
+        <br><br>
+        <input type="reset" value="נקה טופס" class="input1" />
+        <input type="submit" value="הזמן">
+        <br>
+        <br>
+        <br>
+    </form>
+</body>
+
+</html>

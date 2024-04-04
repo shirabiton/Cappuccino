@@ -1,0 +1,284 @@
+#header_line {
+  padding: 15px;
+  direction: rtl;
+  text-align: center;
+  font-size: 25px;
+  opacity: 0.7;
+  background-color: rgb(30, 29, 29);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Moon Dance;
+}
+
+header {
+  text-align: center;
+}
+
+th,
+td,
+tr {
+  border: 3px solid rgb(236, 206, 9);
+  border-collapse: collapse;
+  background-color: black;
+}
+
+table,
+td:hover {
+  color: rgb(236, 206, 9);
+}
+
+.productRow {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+  background-color: rgb(30, 29, 29);
+  padding: 15px;
+}
+
+.product {
+  width: 250px;
+  height: 150px;
+}
+
+table {
+  border: 3px solid rgb(236, 206, 9);
+  border-collapse: collapse;
+  direction: rtl;
+  color: white;
+  background-color: black;
+  align-content: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Moon Dance;
+  text-align: center;
+  font-size: 0.5cm;
+  width: 30%;
+  height: auto;
+  margin-left: 35%;
+}
+
+hr {
+  size: 5px;
+  color: rgb(236, 206, 9);
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+
+video {
+  width: 49%;
+  height: auto;
+}
+
+#bckgImg {
+  background-image: url("תמונת\ רקע\ דף\ הבית.jpg");
+  direction: rtl;
+  opacity: 1.0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  direction: center;
+}
+
+#aboutBck {
+  background-color: rgb(30, 29, 29);
+  opacity: 0.8;
+}
+
+h5 {
+  text-align: center;
+  font-size: 1.6cm;
+  font-family: "Brush Script MT", cursive;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2cm;
+  font-family: "Courier New", 'Courier New', Courier, monospace, monospace;
+  color: white;
+}
+
+h3 {
+  text-align: center;
+  font-size: 1.0cm;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Moon Dance;
+  color: rgb(236, 206, 9);
+}
+
+h4 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Moon Dance;
+  text-align: center;
+  font-size: 0.5cm;
+  color: rgb(236, 206, 9);
+}
+
+#p_copyright {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Moon Dance;
+  position: absolute;
+  bottom: 8%;
+  left: 2%;
+  display: inline;
+}
+
+a:link {
+  color: rgb(236, 206, 9);
+  background-color: transparent;
+  text-decoration: none;
+  font-size: 100%;
+  font-family: "Brush Script MT", cursive;
+}
+
+a:visited {
+  color: rgb(236, 206, 9);
+  background-color: transparent;
+  text-decoration: none;
+  font-size: 100%;
+  font-family: "Brush Script MT", cursive;
+}
+
+a:hover {
+  color: rgb(236, 206, 9);
+  background-color: transparent;
+  text-decoration: none;
+  font-family: "Brush Script MT", cursive;
+}
+
+a:active {
+  color: rgb(236, 206, 9);
+  background-color: transparent;
+  text-decoration: none;
+  font-family: "Brush Script MT", cursive;
+  opacity: 0.5;
+}
+
+#background-color {
+  background-color: rgb(30, 29, 29);
+  width: 30%;
+  padding: 25px;
+  opacity: 0.9;
+  margin-left: 33%;
+  border-radius: 15%;
+}
+
+footer {
+  text-align: center;
+  opacity: 0.9;
+  color: rgb(236, 206, 9);
+  background-color: rgb(30, 29, 29);
+  position: relative;
+  height: 235px;
+}
+
+#id_footer {
+  position: absolute;
+  right: 5%;
+  top: 5%;
+}
+
+#id_links {
+  position: absolute;
+  top: 80%;
+  left: 45%;
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
+}
+
+#footer_about {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Moon Dance;
+  text-align: center;
+  font-size: 0.8scm;
+  color: rgb(236, 206, 9);
+  position: absolute;
+  display: inline;
+  top: 63%;
+  left: 8%;
+}
+
+form {
+  text-align: center;
+  color: rgb(236, 206, 9);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Moon Dance;
+}
+
+#form {
+  background-color: rgb(52, 50, 50);
+  opacity: 0.2;
+}
+
+#thanks {
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  direction: center;
+  text-align: center;
+  color: rgb(236, 206, 9);
+  font-size: 1.5cm;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Moon Dance;
+}
+
+#animation {
+  width: 100%;
+  height: 100%;
+  background-image: url('./מנות/מנות\ \(4\).jpg');
+  animation-name: anim1;
+  animation: anim1 step-end 30s infinite;
+  background-position: center;
+}
+
+@keyframes anim1 {
+  0% {
+    background-size: cover;
+    background-image: url('./מנות/מנות\ \(4\).jpg');
+  }
+
+  10% {
+    background-image: url('./מנות/מנות\ \(1\).jpg');
+  }
+
+  20% {
+    background-image: url('./קינוחים/קינוח\ 4.jpg');
+  }
+
+  30% {
+    background-image: url('./לחם/לחם\ \(1\).jpg');
+  }
+
+  40% {
+    background-image: url('./מנות/מנות\ \(2\).jpg');
+  }
+
+  50% {
+    background-image: url('./מנות/מנות\ \(3\).jpg');
+  }
+
+  60% {
+    background-image: url('./סלטים/סלטים\ \(4\).jpg');
+  }
+
+  70% {
+    background-image: url('./סלטים/סלטים\ \(1\).jpg');
+  }
+
+  80% {
+    background-image: url('./שתיה/קפה.jpg');
+  }
+
+  90% {
+    background-image: url('./קינוחים/קינוח\ 8.jpg');
+  }
+
+  100% {
+    background-image: url('./קינוחים/קינוח\ 4.jpg');
+  }
+}
+
+.cart-icon img {
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
+}
+
+.asterisk {
+  color: red;
+  white-space: nowrap;
+  margin-left: 5px;
+}
+
+label{
+  color: white;
+  padding-left: 20px;
+}
