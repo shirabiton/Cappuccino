@@ -11,19 +11,19 @@
 ![אודות](Docs/Screenshots/about1.png)
 ![אודות](Docs/Screenshots/about2.png)
 ![אודות](Docs/Screenshots/about3.png)
-![אודות](Docs/Screenshots/about4.png)<br>
+![אודות](Docs/Screenshots/about4.png)<br><br>
 מנות הבית:<br><br>
-![מנות הבית](Docs/Screenshots/meals.png)<br>
+![מנות הבית](Docs/Screenshots/meals.png)<br><br>
 סלטים:<br><br>
-![סלטים](Docs/Screenshots/salads.png)<br>
+![סלטים](Docs/Screenshots/salads.png)<br><br>
 קינוחים:<br><br>
-![קינוחים](Docs/Screenshots/desserts.png)<br>
+![קינוחים](Docs/Screenshots/desserts.png)<br><br>
 שתיה:<br><br>
-![שתיה](Docs/Screenshots/drinks.png)<br>
+![שתיה](Docs/Screenshots/drinks.png)<br><br>
 טופס הזמנה:<br><br>
 ![טופס הזמנה](Docs/Screenshots/form1.png)
-![טופס הזמנה](Docs/Screenshots/form2.png)<br>
+![טופס הזמנה](Docs/Screenshots/form2.png)<br><br>
 ההזמנה נשלחה:<br><br>
-![ההזמנה נשלחה](Docs/Screenshots/thanks.png)<br>
+![ההזמנה נשלחה](Docs/Screenshots/thanks.png)<br><br>
 
 
