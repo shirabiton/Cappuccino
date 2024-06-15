@@ -1,6 +1,5 @@
 # אתר תדמית למסעדת דמו: Cappuccino
 ## סקירה כללית
-זהו האתר הראשון שלי, אולי לכן כל דפי ה HTML לא מרוכזים בתיקייה אחת של Pages 🙈<br>
 אתר זה מהווה אתר תדמית למסעדת דמו חלבית בשם Cappuccino.
 
 ## מדריך ויזואלי
