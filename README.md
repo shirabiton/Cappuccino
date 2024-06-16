@@ -1,28 +1,27 @@
-# אתר תדמית למסעדת דמו: Cappuccino
-## סקירה כללית
-אתר זה מהווה אתר תדמית למסעדת דמו חלבית בשם Cappuccino.
-
-## מדריך ויזואלי
-דף הבית:<br><br>
-![דף הבית](Docs/Screenshots/home1.png)
-![דף הבית](Docs/Screenshots/home2.png)<br><br>
-אודות:<br><br>
-![אודות](Docs/Screenshots/about1.png)
-![אודות](Docs/Screenshots/about2.png)
-![אודות](Docs/Screenshots/about3.png)
-![אודות](Docs/Screenshots/about4.png)<br><br>
-מנות הבית:<br><br>
-![מנות הבית](Docs/Screenshots/meals.png)<br><br>
-סלטים:<br><br>
-![סלטים](Docs/Screenshots/salads.png)<br><br>
-קינוחים:<br><br>
-![קינוחים](Docs/Screenshots/desserts.png)<br><br>
-שתיה:<br><br>
-![שתיה](Docs/Screenshots/drinks.png)<br><br>
-טופס הזמנה:<br><br>
-![טופס הזמנה](Docs/Screenshots/form1.png)
-![טופס הזמנה](Docs/Screenshots/form2.png)<br><br>
-ההזמנה נשלחה:<br><br>
-![ההזמנה נשלחה](Docs/Screenshots/thanks.png)<br><br>
+# An image site for Cappuccino - a demo restaurant
+## Overview
+This site is an image site for a demo dairy restaurant called Cappuccino.
+## A visual guide
+Homepage: <br><br>
+![homepage](Docs/Screenshots/home1.png)
+![homepage](Docs/Screenshots/home2.png)<br><br>
+About:<br><br>
+![About](Docs/Screenshots/about1.png)
+![About](Docs/Screenshots/about2.png)
+![About](Docs/Screenshots/about3.png)
+![About](Docs/Screenshots/about4.png)<br><br>
+Home dishes:<br><br>
+![Home dishes](Docs/Screenshots/meals.png)<br><br>
+Salads:<br><br>
+![Salads](Docs/Screenshots/salads.png)<br><br>
+Desserts:<br><br>
+![Desserts](Docs/Screenshots/desserts.png)<br><br>
+Drinks:<br><br>
+![Drinks](Docs/Screenshots/drinks.png)<br><br>
+Order Form:<br><br>
+![Order Form](Docs/Screenshots/form1.png)
+![Order Form](Docs/Screenshots/form2.png)<br><br>
+Order Sent:<br><br>
+![Order Sent](Docs/Screenshots/thanks.png)<br><br>
 
 
